@@ -13,7 +13,7 @@ The [official SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui) 
 
 Finally, you can get help with design decisions by perusing the [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/) for best practices on how to use and arrange SwiftUI’s many views and controls.
 
-For version control assistance or review, [this GitHub Classroom link](https://classroom.github.com/a/TTnpl84u) will give you your own copy of a repository with notes and documentation about _git_ and GitHub, authored by GitHub. You can also use that repository to practice _git_ commands. The official [Git Book](https://git-scm.com/book/en/v2) is also completely available online. Chapters 1 and 2 are fundamental, with Chapter 3 becoming useful if you want to experiment safely without disrupting established code.
+For version control assistance or review, [this GitHub Classroom link](https://classroom.github.com/a/ApbInIzb) will give you your own copy of a repository with notes and documentation about _git_ and GitHub, authored by GitHub. You can also use that repository to practice _git_ commands. The official [Git Book](https://git-scm.com/book/en/v2) is also completely available online. Chapters 1 and 2 are fundamental, with Chapter 3 becoming useful if you want to experiment safely without disrupting established code.
 
 ## For Submission
 Create a mobile app for displaying a (preloaded) “list of stuff”—movies, outfits, parks, musicians, anime, games, countries, teams—take your pick! Allow the user to:
