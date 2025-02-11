@@ -52,6 +52,10 @@ As in the first assignment, certain technical specifics are required—_all_ of 
 
 Supply a simple _about.md_ Markdown file that describes your app briefly. Include a brief description of the API that you have chosen, including a link to its documentation. Highlight anything about the app that you think is particularly interesting or that you’re particularly proud of.
 
+Here in your _about.md_, also credit any sources that you used to build your app. This includes any code snippets, tutorials, or other resources that you used to build your app. If you used any assets (images, sounds, etc.) that you did not create yourself, credit the source of those assets as well.
+
+Lastly, for those who worked with a partner, in your _about.md_, write down who did what in the project. This is important for us to know how to grade your work.
+
 ## Operational Tips/Suggestions
 * Although there is no particular mandated approach toward building API-backed apps, you won’t go wrong with this approach:
     * Start by studying the API. Get to know its features. _Communicate with it directly_ using the [Postman desktop app](https://www.postman.com), _curl_, or similar utilities. Talk to it until you feel that you know it well
