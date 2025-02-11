@@ -1,6 +1,8 @@
-**CMSI 2022** Mobile Application Development, Spring 2024
+**CMSI 2022** Mobile Application Development, Spring 2025
 
-# Assignment 0221
+## Due Date: February 27, 2025, 11:59 PM
+
+# Assignment 0227
 It’s time to start talking…to web services! For this assignment, we’d like you to demonstrate:
 * The ability to model a public API’s information as Swift `struct`s
 * The ability to fetch and display data from a public API
@@ -135,3 +137,5 @@ For this particular assignment, graded categories are as follows:
 | **Total** | **100** |
 
 Note that inability to compile and run any code to begin with will negatively affect other criteria, because if we can’t run your code, we can’t evaluate related remaining items completely.
+
+#### Due Date: February 27, 2025, 11:59 PM
