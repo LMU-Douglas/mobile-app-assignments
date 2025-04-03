@@ -55,7 +55,7 @@ Use the following outlines to drive what goes into _ideation.md_, _pitch.md_, an
 4. For each of the three projects, list the goals/ideas that you brainstormed for them
 5. State the “winner” of this process
 
-### _pitch.md_—Pitch Exercise Results (due 0415)
+### _pitch.md_—Pitch Exercise Results (due 0422)
 Combining your preliminary ideation content and the feedback heard on 0410…
 1. State the final inspiration statement that you crafted for your chosen audience
 2. State the possible solutions from preliminary ideation that you considered
@@ -111,7 +111,7 @@ And remember that <kbd>:</kbd><kbd>w</kbd><kbd>q</kbd><kbd>⏎</kbd> is the key 
 Commit the following to your repository:
 - Complete Xcode project with all code, raw data, and assets
 - _ideation.md_—must be submitted/committed by **0410**
-- _pitch.md_—must be submitted/committed by **0415**, will be delivered in class on the week of 0415
+- _pitch.md_—must be submitted/committed by **0422**, will be delivered in class on the week of 0422
 - _about.md_—you may use different visuals for your final presentations (e.g., a slide or video presentation), but your presentation’s _content_ must be delivered in a form suitable for reading as this Markdown file
 
 ## Specific Point Allocations
