@@ -1,6 +1,6 @@
 **CMSI 2022** Mobile Application Development, Spring 2026
 
-# Assignment 0206
+# Assignment 0205
 We start our practicum with a standalone mobile app—one that does not need to communicate with other servers or services in order to do what it seeks to do. For this assignment, we’d like you to demonstrate:
 * The ability to compose and lay out views
 * Knowledge of the Swift programming language
@@ -118,6 +118,8 @@ For this particular assignment, graded categories are as follows:
 | Version control | deduction only |
 | Punctuality | deduction only |
 | **Total** | **50** |
+
+## Assignment Due 02-05-2026 at 11:59:59pm
 
 Any line item may incur additional deductions if there is insufficient differentiation from tutorial code.
 
