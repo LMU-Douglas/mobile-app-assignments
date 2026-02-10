@@ -1,8 +1,8 @@
-**CMSI 2022** Mobile Application Development, Spring 2025
+**CMSI 2022** Mobile Application Development, Spring 2026
 
-## Due Date: February 27, 2025, 11:59 PM
+## Due Date: February 26, 2025, 11:59 PM
 
-# Assignment 0227
+# Assignment 0226
 It’s time to start talking…to web services! For this assignment, we’d like you to demonstrate:
 * The ability to model a public API’s information as Swift `struct`s
 * The ability to fetch and display data from a public API
@@ -26,7 +26,7 @@ You will be creating an interactive mobile app for fetching data from an API and
 
 Need some API ideas? API lists abound. Try [this one](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/), [this one](https://apilist.fun/), [this one](https://www.postman.com/explore/apis-for-beginners) or (especially) [this one](https://github.com/public-apis/public-apis).
 
-The [APIdex sample](https://classroom.github.com/a/CWiVI09G) provides some ideas and code—hope you feel that APIdex feels incomplete, because it is! It is meant only to show you a range of approaches that many API-backed apps share. Your own app _must definitely have more functionality than APIdex_. Feel free to make use of any techniques learned in our class demonstrations and code-alongs.
+The [APIdex sample](https://classroom.github.com/a/lkUUTkj2) provides some ideas and code—hope you feel that APIdex feels incomplete, because it is! It is meant only to show you a range of approaches that many API-backed apps share. Your own app _must definitely have more functionality than APIdex_. Feel free to make use of any techniques learned in our class demonstrations and code-alongs.
 
 So first and foremost, you must have a functional and sufficiently bug-free app:
 * Effective and/or interesting API use—Don’t just call an API for calling’s sake; envision a potentially useful application for it
@@ -142,4 +142,4 @@ For this particular assignment, graded categories are as follows:
 
 Note that inability to compile and run any code to begin with will negatively affect other criteria, because if we can’t run your code, we can’t evaluate related remaining items completely.
 
-#### Due Date: February 27, 2025, 11:59 PM
+#### Due Date: February 26, 2025, 11:59 PM
