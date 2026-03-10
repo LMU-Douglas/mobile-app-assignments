@@ -1,8 +1,8 @@
-**CMSI 2022** Mobile Application Development, Spring 2025
+**CMSI 2022** Mobile Application Development, Spring 2026
 
-## Due Date: April 01, 2025, 11:59 PM
+## Due Date: March 26, 2026, 11:59 PM
 
-# Assignment 0401
+# Assignment 0326
 With this assignment, we fill out the stack, transitioning from using someone else’s web services to building your own. There are many ways to do this, and for this course, we have chosen [Firebase](https://firebase.google.com) to introduce you to these layers. As with any back-end development, with Firebase we hope you’ll demonstrate:
 * The ability to set up and configure a Firebase project
 * The ability to hook up a database (in this case Firestore) to an iOS SwiftUI mobile application
@@ -141,4 +141,4 @@ For this particular assignment, graded categories are as follows:
 
 Note that inability to compile and run any code to begin with will negatively affect other criteria, because if we can’t run your code, we can’t evaluate related remaining items completely.
 
-#### Due Date: April 01, 2025, 11:59 PM
+#### Due Date: March 26, 2026, 11:59 PM
