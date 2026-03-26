@@ -1,8 +1,8 @@
-**CMSI 2022** Mobile Application Development, Spring 2025
+**CMSI 2022** Mobile Application Development, Spring 2026
 
-## Due Date: May 09, 2025, 11:59 PM
+## Due Date: May 08, 2026, 11:59 PM
 
-# Assignment 0509
+# Assignment 0508
 This is it, this is what we have been building toward: a mobile app fully conceived, designed, and implemented by you. By doing so, you will demonstrate the ability to ideate, design, and implement a beautiful, secure mobile application of your choice, using both a third-party API and a secure database, in a team of students, with well-defined roles, following modern development practices.
 
 ## Background Reading
@@ -48,15 +48,15 @@ Due to the open-endedness of what your web app can be, we no longer have an all-
 ## Documentation Outlines/Templates
 Use the following outlines to drive what goes into _ideation.md_, _pitch.md_, and _about.md_. Note that the first two items are clearly derived from the [ideation process](https://cs.lmu.edu/~ray/notes/ideation/) on Dr. Toal’s website. The _about.md_ outline should also serve as a guide to your final presentation.
 
-### _ideation.md_—Preliminary Ideation Results (due 0410)
+### _ideation.md_—Preliminary Ideation Results (due 0409)
 1. Which audiences did you consider, and which one did you settle on for your app?
 2. List the ten needs that you identified for your chosen audience
 3. State the three needs that were chosen out of the ten, and state the projects that you mapped to those needs
 4. For each of the three projects, list the goals/ideas that you brainstormed for them
 5. State the “winner” of this process
 
-### _pitch.md_—Pitch Exercise Results (due 0422)
-Combining your preliminary ideation content and the feedback heard on 0410…
+### _pitch.md_—Pitch Exercise Results (due 0409)
+Combining your preliminary ideation content and the feedback heard on 0407…
 1. State the final inspiration statement that you crafted for your chosen audience
 2. State the possible solutions from preliminary ideation that you considered
 3. State the final app idea that your team has decided to do
@@ -155,6 +155,6 @@ For this particular assignment, graded categories are as follows:
 | Punctuality | deduction only |
 | **Total** | **250** |
 
-### Due Date: May 09, 2025, 11:59 PM
+### Due Date: May 08, 2026, 11:59 PM
 
 Note that inability to compile and run any code to begin with will negatively affect other criteria, because if we can’t run your code, we can’t evaluate related remaining items completely.
