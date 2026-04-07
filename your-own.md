@@ -22,8 +22,8 @@ Welllll, we _do_ want this app to be the culmination of what has been learned th
 
 In addition, we will have you follow a [specific process](https://cs.lmu.edu/~ray/notes/ideation/) for _ideating_ your app. You will document this process as follows:
 - Develop an _ideation.md_ file that records the results of your team’s _preliminary ideation_ process (we will work on this during the 0408 class session)
-- Participate in classtime _sharing/feedback pairings_ to crystallize your idea (it’s OK to already be at work on your idea by this time—the exercise is more about refining the way you express your idea). We will do this during the 0410 class session
-- Develop an _elevator pitch_ for your app, three (3) minutes max. Submit its outline/salient points in a _pitch.md_ file. We will share our pitches with each other during the week of 0422
+- Participate in classtime _sharing/feedback pairings_ to crystallize your idea (it’s OK to already be at work on your idea by this time—the exercise is more about refining the way you express your idea). We will do this during the 0407 class session
+- Develop an _elevator pitch_ for your app, three (3) minutes max. Submit its outline/salient points in a _pitch.md_ file. We will share our pitches with each other on **0409**
 - During the final exam slot designated by the registrar for the respective course, teams will give a final presentation and demo of their respective apps, five (5) minutes max. The content of this presentation will be captured in an _about.md_ file
 
 👉🏽 _If you are unable to attend the final exam slot, please notify me as soon as possible so that we can make other arrangements!_
@@ -110,8 +110,8 @@ And remember that <kbd>:</kbd><kbd>w</kbd><kbd>q</kbd><kbd>⏎</kbd> is the key 
 ## How to Turn it In
 Commit the following to your repository:
 - Complete Xcode project with all code, raw data, and assets
-- _ideation.md_—must be submitted/committed by **0410**
-- _pitch.md_—must be submitted/committed by **0422**, will be delivered in class on the week of 0422
+- _ideation.md_—must be submitted/committed by **0409**
+- _pitch.md_—must be submitted/committed by **0409**, will be delivered in class on Thursday, **04/09**
 - _about.md_—you may use different visuals for your final presentations (e.g., a slide or video presentation), but your presentation’s _content_ must be delivered in a form suitable for reading as this Markdown file
 
 ## Specific Point Allocations
